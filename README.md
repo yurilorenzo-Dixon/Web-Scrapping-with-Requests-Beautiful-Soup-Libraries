@@ -1,2 +1,6 @@
-# Web-Scrapping-with-Requests-Beautiful-Soup-Libraries
-Extract web content from python.org and use Beautiful Soup to extract the page contents
+web-scraping-python-beautifulsoup/
+│
+├── web_scraping_python_org.py
+├── python_org_wordcloud.png
+└── README.md
+
